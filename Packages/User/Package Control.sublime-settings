@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ColorSchemeEditor",
+		"Compare Side-By-Side",
+		"Console Exec",
+		"Delphi IDE",
+		"HTMLBeautify",
+		"Indent XML",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeLinter-html-tidy"
+	]
+}
